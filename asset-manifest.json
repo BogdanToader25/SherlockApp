@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/SherlockApp/static/css/main.03810955.css",
+    "main.js": "/SherlockApp/static/js/main.fd739c02.js",
+    "static/js/787.980c7beb.chunk.js": "/SherlockApp/static/js/787.980c7beb.chunk.js",
+    "static/media/Docks.PNG": "/SherlockApp/static/media/Docks.a25465a5fc8b38ff6700.PNG",
+    "static/media/CarriagesDepot.PNG": "/SherlockApp/static/media/CarriagesDepot.3a3481000095980eee51.PNG",
+    "static/media/Hotel.PNG": "/SherlockApp/static/media/Hotel.c04e52b9098c9f2dd071.PNG",
+    "static/media/Theater.PNG": "/SherlockApp/static/media/Theater.eadc694386097681b8ae.PNG",
+    "static/media/Museum.PNG": "/SherlockApp/static/media/Museum.db4f2677ba3a4c809164.PNG",
+    "static/media/Tavern.PNG": "/SherlockApp/static/media/Tavern.abb6b9fefc48b67b1953.PNG",
+    "static/media/Park.PNG": "/SherlockApp/static/media/Park.99bfa391eaaa06d7c171.PNG",
+    "static/media/Tabacconist.PNG": "/SherlockApp/static/media/Tabacconist.9061d12ae191e69703f5.PNG",
+    "static/media/PawnBroker.PNG": "/SherlockApp/static/media/PawnBroker.5b00e465e44c3ef219c1.PNG",
+    "static/media/ScotlandYard.PNG": "/SherlockApp/static/media/ScotlandYard.1b2faebb79d25c3d035e.PNG",
+    "static/media/Locksmith.PNG": "/SherlockApp/static/media/Locksmith.8eb8952153d379257b77.PNG",
+    "static/media/NewsAgent.PNG": "/SherlockApp/static/media/NewsAgent.c1c799a450dc7e0b1415.PNG",
+    "static/media/Bank.PNG": "/SherlockApp/static/media/Bank.7b28fd9d014f41134b39.PNG",
+    "static/media/Sherlock.png": "/SherlockApp/static/media/Sherlock.8b61eb4e90007a160eef.png",
+    "static/media/Chemist.PNG": "/SherlockApp/static/media/Chemist.dc6685d23274c7589578.PNG",
+    "index.html": "/SherlockApp/index.html",
+    "main.03810955.css.map": "/SherlockApp/static/css/main.03810955.css.map",
+    "main.fd739c02.js.map": "/SherlockApp/static/js/main.fd739c02.js.map",
+    "787.980c7beb.chunk.js.map": "/SherlockApp/static/js/787.980c7beb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03810955.css",
+    "static/js/main.fd739c02.js"
+  ]
+}
