@@ -7,6 +7,7 @@ import './custom.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import LocationClue from './components/LocationClue';
+import { HashRouter } from '../node_modules/react-router-dom/dist/index';
 
 
 function App() {
@@ -14,14 +15,14 @@ function App() {
     return (
         <div>
             <NavMenu />
-            <Router>
+            <HashRouter>
                 <Routes>
                     <Route path="/" element={<CasesContainer />} />
                     <Route path="/cases" element={<CasesContainer />} />
                     <Route path="/casedetails" element={<CaseDetails />} />
                     <Route path="/locationclue" element={<LocationClue />} />
                 </Routes>
-            </Router>
+            </HashRouter>
         </div>
     );
 }

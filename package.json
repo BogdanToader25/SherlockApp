@@ -1,7 +1,7 @@
 {
   "name": "sherlockcluesapp",
   "version": "0.1.0",
-  "homepage": "https://BogdanToader25.github.io/SherlockCluesApp",
+  "homepage": "https://BogdanToader25.github.io/SherlockApp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
