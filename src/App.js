@@ -14,8 +14,9 @@ function App() {
 
     return (
         <div>
-            <NavMenu />
             <HashRouter>
+            <NavMenu />
+            
                 <Routes>
                     <Route path="/" element={<CasesContainer />} />
                     <Route path="/cases" element={<CasesContainer />} />
