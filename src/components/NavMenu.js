@@ -16,7 +16,7 @@ const NavMenu = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
-                        <Nav.Link href="/cases">Cases</Nav.Link>
+                        <Nav.Link href="/cases">To Cases</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
