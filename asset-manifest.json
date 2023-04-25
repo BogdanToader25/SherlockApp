@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SherlockApp/static/css/main.03810955.css",
-    "main.js": "/SherlockApp/static/js/main.8c82a26d.js",
+    "main.js": "/SherlockApp/static/js/main.24d69ffe.js",
     "static/js/787.980c7beb.chunk.js": "/SherlockApp/static/js/787.980c7beb.chunk.js",
     "static/media/Docks.PNG": "/SherlockApp/static/media/Docks.a25465a5fc8b38ff6700.PNG",
     "static/media/CarriagesDepot.PNG": "/SherlockApp/static/media/CarriagesDepot.3a3481000095980eee51.PNG",
@@ -20,11 +20,11 @@
     "static/media/Chemist.PNG": "/SherlockApp/static/media/Chemist.dc6685d23274c7589578.PNG",
     "index.html": "/SherlockApp/index.html",
     "main.03810955.css.map": "/SherlockApp/static/css/main.03810955.css.map",
-    "main.8c82a26d.js.map": "/SherlockApp/static/js/main.8c82a26d.js.map",
+    "main.24d69ffe.js.map": "/SherlockApp/static/js/main.24d69ffe.js.map",
     "787.980c7beb.chunk.js.map": "/SherlockApp/static/js/787.980c7beb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03810955.css",
-    "static/js/main.8c82a26d.js"
+    "static/js/main.24d69ffe.js"
   ]
 }
