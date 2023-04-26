@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SherlockApp/static/css/main.8e263251.css",
-    "main.js": "/SherlockApp/static/js/main.7edf02ed.js",
+    "main.css": "/SherlockApp/static/css/main.08d1e580.css",
+    "main.js": "/SherlockApp/static/js/main.35de2b68.js",
     "static/js/787.980c7beb.chunk.js": "/SherlockApp/static/js/787.980c7beb.chunk.js",
     "static/media/Docks.PNG": "/SherlockApp/static/media/Docks.a25465a5fc8b38ff6700.PNG",
     "static/media/CarriagesDepot.PNG": "/SherlockApp/static/media/CarriagesDepot.3a3481000095980eee51.PNG",
@@ -19,12 +19,12 @@
     "static/media/Sherlock.png": "/SherlockApp/static/media/Sherlock.8b61eb4e90007a160eef.png",
     "static/media/Chemist.PNG": "/SherlockApp/static/media/Chemist.dc6685d23274c7589578.PNG",
     "index.html": "/SherlockApp/index.html",
-    "main.8e263251.css.map": "/SherlockApp/static/css/main.8e263251.css.map",
-    "main.7edf02ed.js.map": "/SherlockApp/static/js/main.7edf02ed.js.map",
+    "main.08d1e580.css.map": "/SherlockApp/static/css/main.08d1e580.css.map",
+    "main.35de2b68.js.map": "/SherlockApp/static/js/main.35de2b68.js.map",
     "787.980c7beb.chunk.js.map": "/SherlockApp/static/js/787.980c7beb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e263251.css",
-    "static/js/main.7edf02ed.js"
+    "static/css/main.08d1e580.css",
+    "static/js/main.35de2b68.js"
   ]
 }
