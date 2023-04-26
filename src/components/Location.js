@@ -14,7 +14,7 @@ const Location = ({ locationName, cluenumber, image }) => {
         });
     };
     return (
-        <Card style={{ width: '18rem' }} onClick={navigateToLocationClue}>
+        <Card className="centered" onClick={navigateToLocationClue}>
             <Card.Img variant="top" src={image} />
             <Card.Body>
                 <Card.Title>{locationName}</Card.Title>
