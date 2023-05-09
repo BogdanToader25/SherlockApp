@@ -19,9 +19,9 @@ const LocationClue = () => {
                 <span>Back to case</span>
             </button> 
 
-            <p className="text-xl mt-4 text-gray-400">
+            <pre className="text-xl m-8 text-black-400">
                 {clues.clues.filter(i => i.ClueNumber == location.state.cluenumber)[0].ClueDescription}
-            </p>
+            </pre>
         </div>
     );
 }
