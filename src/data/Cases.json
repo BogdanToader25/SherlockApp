@@ -2,47 +2,47 @@
   "cases": [
     {
       "casenumber": "1",
-      "casetitle": "Case Title 1",
-      "casedescription": "Humanity is ready to take their current Mars exploration strategy to the next level. For now, the rover would just report whether there is a viable colonisation spot on the Mars chart. After that, a team of humans would be deployed there, but without any infrastructure to begin with, by the time they would arrive. On the other hand, what if the rover would do something about it while it’s waiting for the humans to arrive? What if the rover could not only explore, but also… colonise?",
+      "casetitle": "Întâmplarea cu omul păcătos",
+      "casedescription": "No description yet",
       "clues": [
         {
-          "bankcluenumber": "1",
-          "carriagescluenumber": "2",
           "chemistcluenumber": "3",
-          "dockscluenumber": "4",
-          "hotelcluenumber": "5",
-          "locksmithcluenumber": "6",
-          "museumcluenumber": "7",
-          "newsagentcluenumber": "8",
-          "parkcluenumber": "9",
-          "pawnbrokercluenumber": "10",
-          "scotlandyardcluenumber": "11",
-          "tabacconistcluenumber": "12",
-          "taverncluenumber": "13",
-          "theatercluenumber": "14"
+          "bankcluenumber": "28",
+          "carriagescluenumber": "58",
+          "dockscluenumber": "76",
+          "hotelcluenumber": "115",
+          "locksmithcluenumber": "136",
+          "museumcluenumber": "168",
+          "newsagentcluenumber": "191",
+          "parkcluenumber": "218",
+          "pawnbrokercluenumber": "243",
+          "theatercluenumber": "280",
+          "taverncluenumber": "304",
+          "scotlandyardcluenumber": "351",
+          "tabacconistcluenumber": "384"
         }
       ]
     },
     {
       "casenumber": "2",
-      "casetitle": "Case Title 2",
-      "casedescription": "Case description that is quite long and will most likely take more than one row",
+      "casetitle": "Întâmplarea cu Silver Patch",
+      "casedescription": "No description yet",
       "clues": [
         {
-          "bankcluenumber": "1",
-          "carriagescluenumber": "2",
-          "chemistcluenumber": "3",
-          "dockscluenumber": "4",
-          "hotelcluenumber": "1",
-          "locksmithcluenumber": "2",
-          "museumcluenumber": "3",
-          "newsagentcluenumber": "4",
-          "parkcluenumber": "1",
-          "pawnbrokercluenumber": "2",
-          "scotlandyardcluenumber": "3",
-          "tabacconistcluenumber": "4",
-          "taverncluenumber": "1",
-          "theatercluenumber": "2"
+          "chemistcluenumber": "106",
+          "bankcluenumber": "209",
+          "carriagescluenumber": "234",
+          "dockscluenumber": "52",
+          "hotelcluenumber": "289",
+          "locksmithcluenumber": "313",
+          "museumcluenumber": "15",
+          "newsagentcluenumber": "346",
+          "parkcluenumber": "134",
+          "pawnbrokercluenumber": "365",
+          "theatercluenumber": "87",
+          "taverncluenumber": "393",
+          "scotlandyardcluenumber": "176",
+          "tabacconistcluenumber": "262"
         }
       ]
     }
