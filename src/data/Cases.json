@@ -321,6 +321,144 @@
           "tabacconistcluenumber": "202"
         }
       ]
+    },
+    {
+      "casenumber": "15",
+      "casetitle": "Întâmplarea cu crima repetată",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "97",
+          "bankcluenumber": "287",
+          "carriagescluenumber": "150",
+          "dockscluenumber": "56",
+          "hotelcluenumber": "185",
+          "locksmithcluenumber": "363",
+          "museumcluenumber": "174",
+          "newsagentcluenumber": "84",
+          "parkcluenumber": "260",
+          "pawnbrokercluenumber": "314",
+          "theatercluenumber": "415",
+          "taverncluenumber": "332",
+          "scotlandyardcluenumber": "235",
+          "tabacconistcluenumber": "19"
+        }
+      ]
+    },
+    {
+      "casenumber": "16",
+      "casetitle": "Întâmplarea cu planurile dispărute",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "113",
+          "bankcluenumber": "231",
+          "carriagescluenumber": "330",
+          "dockscluenumber": "145",
+          "hotelcluenumber": "269",
+          "locksmithcluenumber": "366",
+          "museumcluenumber": "30",
+          "newsagentcluenumber": "413",
+          "parkcluenumber": "155",
+          "pawnbrokercluenumber": "348",
+          "theatercluenumber": "42",
+          "taverncluenumber": "204",
+          "scotlandyardcluenumber": "278",
+          "tabacconistcluenumber": "82"
+        }
+      ]
+    },
+    {
+      "casenumber": "17",
+      "casetitle": "Întâmplarea cu moartea rescrisă",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "180",
+          "bankcluenumber": "370",
+          "carriagescluenumber": "67",
+          "dockscluenumber": "244",
+          "hotelcluenumber": "303",
+          "locksmithcluenumber": "133",
+          "museumcluenumber": "294",
+          "newsagentcluenumber": "34",
+          "parkcluenumber": "392",
+          "pawnbrokercluenumber": "93",
+          "theatercluenumber": "183",
+          "taverncluenumber": "401",
+          "scotlandyardcluenumber": "205",
+          "tabacconistcluenumber": "112"
+        }
+      ]
+    },
+    {
+      "casenumber": "18",
+      "casetitle": "Întâmplarea cu marinarul ghinionist",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "8",
+          "bankcluenumber": "157",
+          "carriagescluenumber": "236",
+          "dockscluenumber": "329",
+          "hotelcluenumber": "65",
+          "locksmithcluenumber": "380",
+          "museumcluenumber": "122",
+          "newsagentcluenumber": "274",
+          "parkcluenumber": "397",
+          "pawnbrokercluenumber": "36",
+          "theatercluenumber": "261",
+          "taverncluenumber": "341",
+          "scotlandyardcluenumber": "192",
+          "tabacconistcluenumber": "99"
+        }
+      ]
+    },
+    {
+      "casenumber": "19",
+      "casetitle": "Întâmplarea cu taxa neachitată",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "2",
+          "bankcluenumber": "216",
+          "carriagescluenumber": "118",
+          "dockscluenumber": "300",
+          "hotelcluenumber": "138",
+          "locksmithcluenumber": "368",
+          "museumcluenumber": "161",
+          "newsagentcluenumber": "349",
+          "parkcluenumber": "41",
+          "pawnbrokercluenumber": "327",
+          "theatercluenumber": "211",
+          "taverncluenumber": "77",
+          "scotlandyardcluenumber": "271",
+          "tabacconistcluenumber": "405"
+        }
+      ]
+    },
+    {
+      "casenumber": "20",
+      "casetitle": "Întâmplarea cu servitoarea ciudată",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "149",
+          "bankcluenumber": "325",
+          "carriagescluenumber": "208",
+          "dockscluenumber": "284",
+          "hotelcluenumber": "59",
+          "locksmithcluenumber": "263",
+          "museumcluenumber": "172",
+          "newsagentcluenumber": "412",
+          "parkcluenumber": "17",
+          "pawnbrokercluenumber": "338",
+          "theatercluenumber": "387",
+          "taverncluenumber": "120",
+          "scotlandyardcluenumber": "240",
+          "tabacconistcluenumber": "88"
+        }
+      ]
     }
   ]
 }
