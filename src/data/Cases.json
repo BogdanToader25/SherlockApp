@@ -275,6 +275,52 @@
           "tabacconistcluenumber": "381"
         }
       ]
+    },
+    {
+      "casenumber": "13",
+      "casetitle": "Întâmplarea cu moștenitoarea cerii de albine",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "73",
+          "bankcluenumber": "219",
+          "carriagescluenumber": "137",
+          "dockscluenumber": "265",
+          "hotelcluenumber": "398",
+          "locksmithcluenumber": "18",
+          "museumcluenumber": "293",
+          "newsagentcluenumber": "354",
+          "parkcluenumber": "114",
+          "pawnbrokercluenumber": "210",
+          "theatercluenumber": "323",
+          "taverncluenumber": "38",
+          "scotlandyardcluenumber": "241",
+          "tabacconistcluenumber": "173"
+        }
+      ]
+    },
+    {
+      "casenumber": "14",
+      "casetitle": "Întâmplarea cu mesajul codificat",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "23",
+          "bankcluenumber": "117",
+          "carriagescluenumber": "232",
+          "dockscluenumber": "307",
+          "hotelcluenumber": "143",
+          "locksmithcluenumber": "257",
+          "museumcluenumber": "395",
+          "newsagentcluenumber": "54",
+          "parkcluenumber": "357",
+          "pawnbrokercluenumber": "167",
+          "theatercluenumber": "362",
+          "taverncluenumber": "89",
+          "scotlandyardcluenumber": "295",
+          "tabacconistcluenumber": "202"
+        }
+      ]
     }
   ]
 }
