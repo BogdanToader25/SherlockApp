@@ -459,6 +459,236 @@
           "tabacconistcluenumber": "88"
         }
       ]
+    },
+    {
+      "casenumber": "21",
+      "casetitle": "Întâmplarea cu binefăcătorul misterios",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "140",
+          "bankcluenumber": "189",
+          "carriagescluenumber": "32",
+          "dockscluenumber": "322",
+          "hotelcluenumber": "249",
+          "locksmithcluenumber": "409",
+          "museumcluenumber": "20",
+          "newsagentcluenumber": "177",
+          "parkcluenumber": "334",
+          "pawnbrokercluenumber": "85",
+          "theatercluenumber": "237",
+          "taverncluenumber": "389",
+          "scotlandyardcluenumber": "109",
+          "tabacconistcluenumber": "290"
+        }
+      ]
+    },
+    {
+      "casenumber": "22",
+      "casetitle": "Întâmplarea cu morțile duplicate",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "107",
+          "bankcluenumber": "203",
+          "carriagescluenumber": "324",
+          "dockscluenumber": "25",
+          "hotelcluenumber": "375",
+          "locksmithcluenumber": "126",
+          "museumcluenumber": "178",
+          "newsagentcluenumber": "233",
+          "parkcluenumber": "60",
+          "pawnbrokercluenumber": "299",
+          "theatercluenumber": "411",
+          "taverncluenumber": "339",
+          "scotlandyardcluenumber": "83",
+          "tabacconistcluenumber": "256"
+        }
+      ]
+    },
+    {
+      "casenumber": "23",
+      "casetitle": "Întâmplarea cu biletul bancherului",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "146",
+          "bankcluenumber": "258",
+          "carriagescluenumber": "377",
+          "dockscluenumber": "13",
+          "hotelcluenumber": "162",
+          "locksmithcluenumber": "317",
+          "museumcluenumber": "47",
+          "newsagentcluenumber": "353",
+          "parkcluenumber": "194",
+          "pawnbrokercluenumber": "279",
+          "theatercluenumber": "90",
+          "taverncluenumber": "403",
+          "scotlandyardcluenumber": "220",
+          "tabacconistcluenumber": "101"
+        }
+      ]
+    },
+    {
+      "casenumber": "24",
+      "casetitle": "Întâmplarea cu notițele reporterului",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "81",
+          "bankcluenumber": "283",
+          "carriagescluenumber": "154",
+          "dockscluenumber": "227",
+          "hotelcluenumber": "374",
+          "locksmithcluenumber": "24",
+          "museumcluenumber": "336",
+          "newsagentcluenumber": "417",
+          "parkcluenumber": "103",
+          "pawnbrokercluenumber": "188",
+          "theatercluenumber": "331",
+          "taverncluenumber": "55",
+          "scotlandyardcluenumber": "268",
+          "tabacconistcluenumber": "129"
+        }
+      ]
+    },
+    {
+      "casenumber": "25",
+      "casetitle": "Întâmplarea cu poetul însetat de sânge",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "116",
+          "bankcluenumber": "355",
+          "carriagescluenumber": "57",
+          "dockscluenumber": "394",
+          "hotelcluenumber": "166",
+          "locksmithcluenumber": "212",
+          "museumcluenumber": "320",
+          "newsagentcluenumber": "29",
+          "parkcluenumber": "206",
+          "pawnbrokercluenumber": "281",
+          "theatercluenumber": "74",
+          "taverncluenumber": "391",
+          "scotlandyardcluenumber": "255",
+          "tabacconistcluenumber": "144"
+        }
+      ]
+    },
+    {
+      "casenumber": "26",
+      "casetitle": "Întâmplarea cu clientul postum",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "92",
+          "bankcluenumber": "245",
+          "carriagescluenumber": "175",
+          "dockscluenumber": "316",
+          "hotelcluenumber": "51",
+          "locksmithcluenumber": "239",
+          "museumcluenumber": "364",
+          "newsagentcluenumber": "71",
+          "parkcluenumber": "414",
+          "pawnbrokercluenumber": "195",
+          "theatercluenumber": "297",
+          "taverncluenumber": "11",
+          "scotlandyardcluenumber": "343",
+          "tabacconistcluenumber": "142"
+        }
+      ]
+    },
+    {
+      "casenumber": "27",
+      "casetitle": "Întâmplarea cu testamentul fetei bătrâne",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "164",
+          "bankcluenumber": "379",
+          "carriagescluenumber": "111",
+          "dockscluenumber": "224",
+          "hotelcluenumber": "358",
+          "locksmithcluenumber": "14",
+          "museumcluenumber": "242",
+          "newsagentcluenumber": "305",
+          "parkcluenumber": "127",
+          "pawnbrokercluenumber": "75",
+          "theatercluenumber": "420",
+          "taverncluenumber": "277",
+          "scotlandyardcluenumber": "199",
+          "tabacconistcluenumber": "39"
+        }
+      ]
+    },
+    {
+      "casenumber": "28",
+      "casetitle": "Întâmplarea cu prăbușirea bancherului",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "79",
+          "bankcluenumber": "152",
+          "carriagescluenumber": "252",
+          "dockscluenumber": "197",
+          "hotelcluenumber": "318",
+          "locksmithcluenumber": "399",
+          "museumcluenumber": "27",
+          "newsagentcluenumber": "361",
+          "parkcluenumber": "288",
+          "pawnbrokercluenumber": "45",
+          "theatercluenumber": "383",
+          "taverncluenumber": "135",
+          "scotlandyardcluenumber": "222",
+          "tabacconistcluenumber": "110"
+        }
+      ]
+    },
+    {
+      "casenumber": "29",
+      "casetitle": "Întâmplarea cu mesajul codificat al hoțului",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "91",
+          "bankcluenumber": "229",
+          "carriagescluenumber": "68",
+          "dockscluenumber": "273",
+          "hotelcluenumber": "169",
+          "locksmithcluenumber": "347",
+          "museumcluenumber": "418",
+          "newsagentcluenumber": "43",
+          "parkcluenumber": "373",
+          "pawnbrokercluenumber": "141",
+          "theatercluenumber": "310",
+          "taverncluenumber": "201",
+          "scotlandyardcluenumber": "266",
+          "tabacconistcluenumber": "1"
+        }
+      ]
+    },
+    {
+      "casenumber": "30",
+      "casetitle": "Întâmplarea cu șobolanul gigantic din sumatra",
+      "casedescription": "No description yet",
+      "clues": [
+        {
+          "chemistcluenumber": "22",
+          "bankcluenumber": "186",
+          "carriagescluenumber": "264",
+          "dockscluenumber": "53",
+          "hotelcluenumber": "308",
+          "locksmithcluenumber": "148",
+          "museumcluenumber": "215",
+          "newsagentcluenumber": "407",
+          "parkcluenumber": "61",
+          "pawnbrokercluenumber": "345",
+          "theatercluenumber": "160",
+          "taverncluenumber": "385",
+          "scotlandyardcluenumber": "98",
+          "tabacconistcluenumber": "276"
+        }
+      ]
     }
   ]
 }
